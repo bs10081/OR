@@ -1,6 +1,7 @@
 # 作業研究所使用到的 Gurobi Jupyter Notebook
 
-[English(US)](README.md)  
+[English(US)](README.md)
+
 此儲存庫包含使用 Gurobi 解決線性規劃問題的 Jupyter Notebook 範例和教學材料。這些 Notebook 範例來自不同的課程章節，旨在幫助學習者更深入了解如何使用 Gurobi 解決各種優化問題，包括線性規劃 (LP) 和混合整數規劃 (MIP)。
 
 ## 內容簡介
